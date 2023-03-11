@@ -2,7 +2,10 @@ package com.ryanthekind;
 
 /**
  * Description: The purpose of this exercise is to demonstrate how
- * inhertence works in Java.
+ * inhertence works in Java. It can be understood as an "Is-a" Relationship
+ * 
+ * Unlike Inheritance which 
+ * can be understood as a "Is-a" relationship. 
  * 
  * Inheritance is a technique that allows us to define classes that capture
  * the common properties and functions of several related classes
